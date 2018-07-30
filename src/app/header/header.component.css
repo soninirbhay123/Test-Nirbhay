@@ -1,0 +1,23 @@
+.top-bar {
+    background: #332275;
+    width: 100%;
+    height: auto;
+    padding-top : 10px; 
+}
+.top-bar p {
+    color: #fff;
+}
+.fa {
+    padding-left: 10px!important;
+}
+.navbar-nav li a {
+    color: #332275;
+    font-size: 18px;
+    padding-left: 30px!important;
+}
+.menu-btn {
+    background: #332275;
+    color: #fff;
+    padding: 1vh 2vw;
+    margin-left: 30px!important;
+}

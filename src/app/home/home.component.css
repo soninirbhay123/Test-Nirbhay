@@ -1,0 +1,25 @@
+.center-pill {
+    display: flex;
+    justify-content: center;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background: #332275!important;
+}
+#myCarousel .carousel-indicators li {
+    background-color: #332275!important;
+}
+#myCarousel .carousel-indicators .active {
+    background-color: #100830!important;
+}
+#myCarousel .carousel-indicators {
+    bottom: -35px!important;
+}
+.testimonial-back {
+    background-image:url('../../assets/images/output-40.png');
+    background-repeat:no-repeat;
+    background-position:right top;
+}
+.testimonial-back h6 {
+    padding-top: 50px;
+}
+

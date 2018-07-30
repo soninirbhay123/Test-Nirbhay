@@ -1,0 +1,30 @@
+.contact-section {
+    background: #f9f8fb;
+    margin-top: 50px;
+}
+.fa {
+    margin-right: 10px;
+}
+h4 {
+    padding-bottom: 20px;
+}
+input {
+    margin-bottom: 10px;
+}
+button {
+    background: #332275;
+    margin-top: 10px;
+    color: #fff;
+}
+.footer-socket {
+    background: #000;
+    width: 100%;
+    height: auto;
+    color: #fff;
+    padding-top : 10px; 
+}
+hr {
+    border: 0;
+    width: 50px;
+    border-top: 1px solid red!important;
+}
